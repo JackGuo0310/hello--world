@@ -2,4 +2,4 @@
 my first repository hello--world
 
 Hi, everyone
-I am Jack, a new application engineer.
+I am Jack, a new Application Engineer from AND.
